@@ -1,0 +1,10 @@
+body{
+	background-color: azure;
+	margin: 0;
+	height: 100vh; 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-image: url(/images/fondo.png);
+	color: white;
+}
+
